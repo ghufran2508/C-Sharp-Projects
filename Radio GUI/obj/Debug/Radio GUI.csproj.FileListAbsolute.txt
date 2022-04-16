@@ -1,0 +1,11 @@
+C:\Users\bvani\source\repos\Radio GUI\bin\Debug\Radio GUI.exe.config
+C:\Users\bvani\source\repos\Radio GUI\bin\Debug\Radio GUI.exe
+C:\Users\bvani\source\repos\Radio GUI\bin\Debug\Radio GUI.pdb
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.csproj.AssemblyReference.cache
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio_GUI.Form1.resources
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio_GUI.Properties.Resources.resources
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.csproj.GenerateResource.cache
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.csproj.CoreCompileInputs.cache
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.exe
+C:\Users\bvani\source\repos\Radio GUI\obj\Debug\Radio GUI.pdb

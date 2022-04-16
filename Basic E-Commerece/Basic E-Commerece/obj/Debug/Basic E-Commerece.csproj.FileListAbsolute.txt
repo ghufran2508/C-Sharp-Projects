@@ -1,0 +1,22 @@
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\Basic E-Commerece.exe
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\ObjectsCommon.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\CommerceBLL.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\CommerceDAl.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\CommerceBLL.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\ObjectsCommon.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\CommerceDAl.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.Form1.resources
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.HomePage.resources
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.Properties.Resources.resources
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.SignupForm.resources
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.exe
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\Basic E-Commerece.exe.config
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\bin\Debug\Basic E-Commerece.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic E-Commerece.csproj.CopyComplete
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.Dashboard.resources
+C:\Users\Dell\source\repos\Basic E-Commerece\Basic E-Commerece\obj\Debug\Basic_E_Commerece.addProductForm.resources

@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\bin\Debug\CommerceDAl.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\bin\Debug\CommerceDAl.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\bin\Debug\ObjectsCommon.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\bin\Debug\ObjectsCommon.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\obj\Debug\CommerceDAl.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\obj\Debug\CommerceDAl.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\obj\Debug\CommerceDAl.csproj.CopyComplete
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\obj\Debug\CommerceDAl.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\CommerceDAl\obj\Debug\CommerceDAl.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\bin\Debug\ObjectsCommon.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\bin\Debug\ObjectsCommon.pdb
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\obj\Debug\ObjectsCommon.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\obj\Debug\ObjectsCommon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\obj\Debug\ObjectsCommon.dll
+C:\Users\Dell\source\repos\Basic E-Commerece\ObjectsCommon\obj\Debug\ObjectsCommon.pdb

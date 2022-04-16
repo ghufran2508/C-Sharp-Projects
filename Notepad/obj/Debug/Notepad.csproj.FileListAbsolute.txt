@@ -1,0 +1,11 @@
+C:\Users\bvani\source\repos\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\bvani\source\repos\Notepad\bin\Debug\Notepad.exe
+C:\Users\bvani\source\repos\Notepad\bin\Debug\Notepad.pdb
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.exe
+C:\Users\bvani\source\repos\Notepad\obj\Debug\Notepad.pdb

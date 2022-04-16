@@ -1,0 +1,2 @@
+1 | GPU | Computing | 17000 | 1
+2 | CPU | Computer | 19000 | 1

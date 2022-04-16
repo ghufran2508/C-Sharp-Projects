@@ -1,0 +1,22 @@
+C:\Users\bvani\source\repos\Basic Notepad\bin\Debug\Basic Notepad.exe.config
+C:\Users\bvani\source\repos\Basic Notepad\bin\Debug\Basic Notepad.exe
+C:\Users\bvani\source\repos\Basic Notepad\bin\Debug\Basic Notepad.pdb
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.AssemblyReference.cache
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic_Notepad.Form1.resources
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic_Notepad.Properties.Resources.resources
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.GenerateResource.cache
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.CoreCompileInputs.cache
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.exe
+C:\Users\bvani\source\repos\Basic Notepad\obj\Debug\Basic Notepad.pdb
+C:\Users\Dell\source\repos\Basic Notepad\bin\Debug\Basic Notepad.exe.config
+C:\Users\Dell\source\repos\Basic Notepad\bin\Debug\Basic Notepad.exe
+C:\Users\Dell\source\repos\Basic Notepad\bin\Debug\Basic Notepad.pdb
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic_Notepad.Form1.resources
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic_Notepad.Properties.Resources.resources
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.exe
+C:\Users\Dell\source\repos\Basic Notepad\obj\Debug\Basic Notepad.pdb

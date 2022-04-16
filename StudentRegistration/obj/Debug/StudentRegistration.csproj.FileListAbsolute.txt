@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\Dell\source\repos\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\Dell\source\repos\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.Form2.resources
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\Dell\source\repos\StudentRegistration\obj\Debug\StudentRegistration.Form3.resources

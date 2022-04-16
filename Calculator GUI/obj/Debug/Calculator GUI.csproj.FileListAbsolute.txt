@@ -1,0 +1,11 @@
+C:\Users\bvani\source\repos\Calculator GUI\bin\Debug\Calculator GUI.exe.config
+C:\Users\bvani\source\repos\Calculator GUI\bin\Debug\Calculator GUI.exe
+C:\Users\bvani\source\repos\Calculator GUI\bin\Debug\Calculator GUI.pdb
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.csproj.AssemblyReference.cache
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator_GUI.Form1.resources
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.csproj.GenerateResource.cache
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.csproj.CoreCompileInputs.cache
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.exe
+C:\Users\bvani\source\repos\Calculator GUI\obj\Debug\Calculator GUI.pdb

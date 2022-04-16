@@ -1,0 +1,11 @@
+C:\Users\bvani\source\repos\Alarm Clock GUI\bin\Debug\Alarm Clock GUI.exe.config
+C:\Users\bvani\source\repos\Alarm Clock GUI\bin\Debug\Alarm Clock GUI.exe
+C:\Users\bvani\source\repos\Alarm Clock GUI\bin\Debug\Alarm Clock GUI.pdb
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.csproj.AssemblyReference.cache
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm_Clock_GUI.Form1.resources
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm_Clock_GUI.Properties.Resources.resources
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.csproj.GenerateResource.cache
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.csproj.CoreCompileInputs.cache
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.exe
+C:\Users\bvani\source\repos\Alarm Clock GUI\obj\Debug\Alarm Clock GUI.pdb
